@@ -58,8 +58,8 @@ a {
 }
 #video_overlays {
     position:absolute;
-    z-index:index 300000;
-    bottom:90%;
+    z-index:300000;
+    bottom:88%;
     left:1%;
     
 }
